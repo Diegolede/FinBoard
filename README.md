@@ -45,6 +45,29 @@
 
 ---
 
+## Atajos de Teclado y Controles
+
+Optimiza tu flujo de trabajo con estos controles rápidos:
+
+| Acción | Atajo / Control |
+| :--- | :--- |
+| **Herramientas** | |
+| Seleccionar (Cursor) | <kbd>V</kbd> |
+| Texto | <kbd>T</kbd> |
+| Dibujar | <kbd>D</kbd> |
+| **Edición** | |
+| Deshacer | <kbd>Ctrl</kbd> + <kbd>Z</kbd> |
+| Rehacer | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Z</kbd> |
+| Eliminar Elemento | <kbd>Supr</kbd> / <kbd>Backspace</kbd> |
+| Confirmar Texto | <kbd>Enter</kbd> (al editar) |
+| Cancelar / Salir | <kbd>Esc</kbd> |
+| **Navegación** | |
+| Zoom | Rueda del Ratón |
+| Panoramizar (Moverse) | Click Central + Arrastrar |
+| Selección Múltiple | <kbd>Shift</kbd> + Click |
+
+---
+
 ## Requisitos y Dependencias
 
 FinBoard se distribuye como un archivo **AppImage** autocontenido. En la mayoría de los entornos de escritorio modernos (GNOME, KDE, XFCE), la aplicación funcionará de inmediato.
