@@ -64,7 +64,6 @@ Optimiza tu flujo de trabajo con estos controles rápidos:
 | **Navegación** | |
 | Zoom | Rueda del Ratón |
 | Panoramizar (Moverse) | Click Central + Arrastrar |
-| Selección Múltiple | <kbd>Shift</kbd> + Click |
 
 ---
 
