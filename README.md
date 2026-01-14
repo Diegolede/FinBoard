@@ -34,7 +34,7 @@
 </div>
 <br>
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 ### Herramientas de Creación
 *   **Texto Inteligente**: Sistema click-to-create con drag-to-resize para definir el tamaño del texto de forma visual e intuitiva.
@@ -55,7 +55,7 @@
 
 ---
 
-## ⌨️ Atajos de Teclado y Controles
+## Atajos de Teclado y Controles
 
 Optimiza tu flujo de trabajo con estos controles rápidos:
 
@@ -81,7 +81,7 @@ Optimiza tu flujo de trabajo con estos controles rápidos:
 
 ---
 
-## 📦 Requisitos y Dependencias
+## Requisitos y Dependencias
 
 FinBoard se distribuye como un archivo **AppImage** autocontenido. En la mayoría de los entornos de escritorio modernos (GNOME, KDE, XFCE), la aplicación funcionará de inmediato.
 
@@ -129,7 +129,7 @@ sudo apt install libfuse2
 
 ---
 
-## 🚀 Descarga e Instalación
+## Descarga e Instalación
 
 Para utilizar FinBoard en su sistema:
 
