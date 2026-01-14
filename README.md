@@ -7,6 +7,7 @@
 
   <!-- Badges -->
   <p>
+    <img src="https://img.shields.io/badge/Versión-1.0.1-blue?style=for-the-badge" alt="Version" />
     <img src="https://img.shields.io/badge/Hecho%20con-Arch%20Linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
     <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/IA-Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini" />
@@ -24,7 +25,7 @@
 
 ## Descripción 
 
-**FinBoard** es una aplicación de pizarra digital de alto rendimiento diseñada para la productividad y la creatividad. Proporciona un lienzo infinito donde los usuarios pueden organizar ideas, gestionar proyectos y visualizar conceptos. Su arquitectura garantiza rapidez y fluidez, integrando herramientas esenciales en una interfaz moderna y minimalista.
+**FinBoard** es una aplicación de pizarra digital de alto rendimiento diseñada para la productividad y la creatividad. Proporciona un lienzo infinito donde los usuarios pueden organizar ideas, gestionar proyectos y visualizar conceptos. Su arquitectura garantiza rapidez y fluidez, integrando herramientas esenciales en una interfaz moderna y minimalista completamente en español.
 
 <br>
 <div align="center">
@@ -33,41 +34,54 @@
 </div>
 <br>
 
-## Funcionalidades
+## ✨ Funcionalidades
 
-*   **Notas Adhesivas Inteligentes**: Creación y edición de notas con soporte para formato de texto, ideales para brainstorming y organización rápida.
-*   **Lienzo Infinito**: Espacio de trabajo ilimitado que permite expandir diagramas y mapas mentales sin restricciones espaciales.
-*   **Gestión de Recursos Visuales**: Importación, redimensionamiento y rotación precisa de imágenes para enriquecer el contenido visual.
+### Herramientas de Creación
+*   **Texto Inteligente**: Sistema click-to-create con drag-to-resize para definir el tamaño del texto de forma visual e intuitiva.
+*   **Notas Adhesivas**: Creación y edición rápida de notas con soporte para formato de texto, ideales para brainstorming y organización.
 *   **Herramientas de Dibujo**: Sistema de trazado a mano alzada con suavizado automático para esquematización clara y profesional.
+*   **Gestión de Recursos Visuales**: Importación, redimensionamiento y rotación precisa de imágenes y **GIFs animados** que mantienen su animación en el canvas.
+
+### Organización y Gestión
+*   **Lienzo Infinito**: Espacio de trabajo ilimitado que permite expandir diagramas y mapas mentales sin restricciones espaciales.
 *   **Agrupación y Jerarquía**: Herramientas avanzadas de selección múltiple, agrupación de elementos y control de orden (Z-Order) para una gestión estructurada del contenido.
-*   **Persistencia Local**: Guardado automático de todos los cambios en tiempo real, asegurando la integridad de los datos.
+*   **Transformaciones Completas**: Drag & drop, resize, rotate con controles precisos y visuales.
+
+### Sistema y Persistencia
+*   **Persistencia Local**: Guardado automático de todos los cambios en tiempo real con SQLite, asegurando la integridad de los datos.
 *   **Sistema de Historial**: Funcionalidad completa de deshacer y rehacer para un flujo de trabajo flexible y seguro.
+*   **Interfaz en Español**: UI completamente traducida con terminología consistente y natural.
+*   **Confirmación de Salida**: Modal de confirmación al salir de la aplicación para evitar pérdidas accidentales.
 
 ---
 
-## Atajos de Teclado y Controles
+## ⌨️ Atajos de Teclado y Controles
 
 Optimiza tu flujo de trabajo con estos controles rápidos:
 
 | Acción | Atajo / Control |
 | :--- | :--- |
 | **Herramientas** | |
-| Seleccionar (Cursor) | <kbd>V</kbd> |
+| Seleccionar (Cursor) | <kbd>S</kbd> |
 | Texto | <kbd>T</kbd> |
 | Dibujar | <kbd>D</kbd> |
+| Imagen | <kbd>I</kbd> |
+| Nota Adhesiva | <kbd>N</kbd> |
 | **Edición** | |
 | Deshacer | <kbd>Ctrl</kbd> + <kbd>Z</kbd> |
 | Rehacer | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Z</kbd> |
 | Eliminar Elemento | <kbd>Supr</kbd> / <kbd>Backspace</kbd> |
 | Confirmar Texto | <kbd>Enter</kbd> (al editar) |
 | Cancelar / Salir | <kbd>Esc</kbd> |
+| **Aplicación** | |
+| Salir de la App | <kbd>Ctrl</kbd> + <kbd>Q</kbd> |
 | **Navegación** | |
 | Zoom | Rueda del Ratón |
 | Panoramizar (Moverse) | Click Central + Arrastrar |
 
 ---
 
-## Requisitos y Dependencias
+## 📦 Requisitos y Dependencias
 
 FinBoard se distribuye como un archivo **AppImage** autocontenido. En la mayoría de los entornos de escritorio modernos (GNOME, KDE, XFCE), la aplicación funcionará de inmediato.
 
@@ -115,12 +129,12 @@ sudo apt install libfuse2
 
 ---
 
-## Descarga e Instalación
+## 🚀 Descarga e Instalación
 
 Para utilizar FinBoard en su sistema:
 
 1.  Diríjase a la sección **[Releases](../../releases)** del repositorio.
-2.  Descargue la última versión del archivo `.AppImage` (ej. `FinBoard-1.0.0.AppImage`).
+2.  Descargue la última versión del archivo `.AppImage` (ej. `FinBoard-1.0.1.AppImage`).
 3.  Otorgue permisos de ejecución al archivo mediante la terminal:
 
     ```bash
@@ -137,4 +151,5 @@ Para utilizar FinBoard en su sistema:
 
 <div align="center">
   <p>Desarrollado por <strong>Diego Ledesma</strong></p>
+  <p><em>Versión 1.0.1 - Enero 2026</em></p>
 </div>
