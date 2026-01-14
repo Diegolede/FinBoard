@@ -29,7 +29,7 @@
 
 <br>
 <div align="center">
-  <img src="src/captura.gif" alt="Captura de pantalla de FinBoard" width="1000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="src/captura1.gif" alt="Captura de pantalla de FinBoard" width="1000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <p><em>Vista general del espacio de trabajo</em></p>
 </div>
 <br>
