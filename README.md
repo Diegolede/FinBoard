@@ -8,6 +8,7 @@
   <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/Versión-1.0.1-blue?style=for-the-badge" alt="Version" />
+    <img src="https://img.shields.io/badge/🇦🇷-Argentina-74ACDF?style=for-the-badge" alt="Argentina" />
     <img src="https://img.shields.io/badge/Hecho%20con-Arch%20Linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
     <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/IA-Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini" />
